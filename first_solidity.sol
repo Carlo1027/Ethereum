@@ -42,3 +42,5 @@ contract BasicContract {
         token.transfer(0x4b0897b0513fdc7c541b6d9d7e929c4e5364d2db,1); // direccion de otra cuenta tercera
     }
 }
+
+// author Carlo Castro
